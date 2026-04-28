@@ -28,4 +28,4 @@ Add `vibecheck` to your plugins list in `.zshrc`.
 - `pv` — `sudo apt install pv`
 
 ## ASCII Credit
-gigachad.txt — classic
+made by asciiart.eu[https://www.asciiart.eu/image-to-ascii]
