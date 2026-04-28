@@ -10,7 +10,7 @@ Three zsh functions for your `.zshrc` that you absolutely need.
 
 ### Manual
 ```zsh
-git clone https://github.com/YOUR_USERNAME/zsh-vibecheck ~/.config/zsh/vibecheck
+git clone https://github.com/Amir0234-afk/zsh-vibecheck ~/.config/zsh/vibecheck
 ```
 
 Add to `.zshrc`:
@@ -20,7 +20,7 @@ source ~/.config/zsh/vibecheck/vibecheck.zsh
 
 ### oh-my-zsh
 ```zsh
-git clone https://github.com/YOUR_USERNAME/zsh-vibecheck ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/vibecheck
+git clone https://github.com/Amir0234-afk/zsh-vibecheck ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/vibecheck
 ```
 Add `vibecheck` to your plugins list in `.zshrc`.
 
